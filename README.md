@@ -24,6 +24,9 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+Example:  [prueba] (https://github.com/Alvox12/pruebaGit/blob/master/prueba.md)
+          [site] (https://alvox12.github.io/pruebaGit/)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
